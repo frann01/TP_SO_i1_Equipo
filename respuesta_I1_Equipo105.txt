@@ -9,3 +9,5 @@ c) Si, los otros integrantes pueden ver los archivos que sube Beta.
 d) Para poder comunicarnos entre nosotros mientras realizabamos el trabajo utilizamos la aplicacion
 de WhatsApp. Creamos un grupo con los 3 integrantes del equipo y esto nos permitio mantener
 conversaciones entre nosotros de una manera comoda y rapida.
+e)La mejor forma para comunicarnos por medio de git es con el git commi -m este nos permite dejar un historial y registro de los cambios que se realizaron en el archivo
+
