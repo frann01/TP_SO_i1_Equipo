@@ -1,0 +1,7 @@
+Alumnos: 
+Szellner Francisco 
+Casco Felipe 
+Pascual Christian 
+
+a) Si, una vez que los otros integrantes suben sus cambios al repositorio Alfa puede verlos.
+b) Si, los otros integrantes pueden ver los archivos que sube Alfa.
